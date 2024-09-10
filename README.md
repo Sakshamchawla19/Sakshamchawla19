@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sakshamchawla19
-- 👀 I’m Web-application Developer And and proficient in DSA
+- 👀 I’m Web-application Developer And and proficient in DSA using C++
 - 🌱 I’m currently working with real world problem solving projects that will impact a larger part of society in a positve way.
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me - mail on sakshamchawla15@gmail.com
